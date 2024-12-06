@@ -18,7 +18,7 @@ spec:
             port:
               number: 80
 
-  - host: helloworld.127-0-0-1.nip.io  # Domain name
+  - host: helloworld.192-168-49-2.nip.io  # Domain name
     http:
       paths:
       - path: /
